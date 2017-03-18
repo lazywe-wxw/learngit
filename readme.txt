@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Creating a new branch is quick AND simple.
 this is test merge
 this is encode utf-8
+this is anthor presion tijiao
